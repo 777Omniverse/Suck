@@ -18,7 +18,7 @@
   "@ffmpeg-installer/ffmpeg": "^1.1.0",
   "@miraipr0ject/assets": "^1.0.9",
   "adm-zip": "^0.5.10",
-  "axios": "^1.6.8",
+  "axios": "^1.7.2",
   "body-parser": "^1.20.2",
   "caesar-salad": "^1.0.7",
   "canvas": "^2.11.2",
